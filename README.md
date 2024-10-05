@@ -53,7 +53,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/Antonizsar13/Minesweeper
+   git clone https://github.com/kabyfed/Minesweeper
    ```
 
 2. **Перейдите в каталог проекта**:
@@ -74,7 +74,7 @@
    - Или если ваш пакет опубликован на Packagist, установите его глобально:
 
    ```bash
-   composer global require shindasayonara/minesweeper
+   composer global require kabyfed/minesweeper
    ```
 
    - И затем выполните команду:
@@ -93,4 +93,4 @@
 - [Composer Documentation](https://getcomposer.org/doc/)
 
 ## Ссылки на пакеты
-<!-- - [Packagist пакет Minesweeper](https://packagist.org/packages/antonizsar13/minesweeper)  -->
+- [Packagist пакет Minesweeper](https://packagist.org/packages/kabyfed/minesweeper) 
