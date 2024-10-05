@@ -1,0 +1,25 @@
+{
+    "name": "kabyfed/minesweeper",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kabyfed\\Minesweeper\\": "src/"
+        },
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "artem0fedoseev15@mail.ru"
+        }
+    ],
+    "bin": [
+        "bin/minesweeper"
+    ],
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.0"
+    }
+}
