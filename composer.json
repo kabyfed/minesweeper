@@ -17,7 +17,7 @@
         }
     ],
     "bin": [
-        "bin/minesweeper"
+        "bin/minesweeper.php"
     ],
     "require": {
         "wp-cli/php-cli-tools": "^0.12.0"
