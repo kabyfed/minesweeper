@@ -53,7 +53,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/kabyfed/Minesweeper.git
+   git clone https://github.com/kabyfed/minesweeper.git
    ```
 
 2. **Перейдите в каталог проекта**:

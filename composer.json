@@ -1,6 +1,7 @@
 {
     "name": "kabyfed/minesweeper",
     "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kabyfed\\Minesweeper\\": "src/"
@@ -17,7 +18,7 @@
         }
     ],
     "bin": [
-        "bin/minesweeper.php"
+        "bin/minesweeper"
     ],
     "require": {
         "wp-cli/php-cli-tools": "^0.12.0"
